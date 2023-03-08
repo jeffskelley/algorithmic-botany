@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "dat.gui": "^0.7.9",
+    "firebase": "^9.17.2",
     "gsap": "^3.11.4",
     "prettier": "^2.8.4",
     "sass": "^1.58.3",
