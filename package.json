@@ -7,10 +7,8 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
-  "devDependencies": {
-    "nuxt": "^3.2.3"
-  },
   "dependencies": {
+    "nuxt": "^3.2.3",
     "dat.gui": "^0.7.9",
     "firebase": "^9.17.2",
     "gsap": "^3.11.4",
